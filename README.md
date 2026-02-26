@@ -1,10 +1,10 @@
 # Microdesafio: Do Papel para o Código
 
 - Objeto: Mouse
-  - Ações:
+  - Ações:  
       o Mover Ponteiro
       o Scrollar
-  - Atributos: 
+  - Atributos:  
       o Cor
       o Tamanho
       o Dpi
